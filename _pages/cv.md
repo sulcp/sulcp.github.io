@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
+* B.S. Czech Technical University, 2006
+* M.S. in Quantum Physics, Ecole Polytechnique, Paris, 2009
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
