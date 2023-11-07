@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Petr's homepage"
+title                    : "Example homepage for CHM501 class"
 title_separator          : "-"
 name                     : &name "Petr S."
-description              : &description "personal description"
+description              : &description "A test homepage"
 url                      : https://sulcp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sulcp/sulcp.github.io"
@@ -59,7 +59,7 @@ yandex_site_verification :
 twitter:
   username               : &twitter
 facebook:
-  username               :
+  username               : 
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Petr S"
   avatar           : "profile.png"
-  bio              : "Hello this is my test homepage"
-  location         : "Location"
+  bio              : "We just created this as an example"
+  location         : "Tempe, AZ"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "sulcp"
   google_plus      :
   keybase          :
   instagram        :
